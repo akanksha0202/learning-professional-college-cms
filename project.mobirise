@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Learning Professional College",
-    "currentPage": "index.html",
+    "currentPage": "Programmes.html",
     "theme": {
       "name": "mobirise4",
       "title": "Mobirise 4",
@@ -38,7 +38,7 @@
       }
     ],
     "versionFirst": "4.7.6",
-    "uniqCompNum": 17,
+    "uniqCompNum": 19,
     "versionPublish": "4.12.4",
     "imageResize": true,
     "google-analytics": "College management system | Learning Management System | Studies | Education | Student | Programmes | About | College",
@@ -1033,7 +1033,7 @@
       "settings": {
         "meta_descr": "Programmes in Learning Professional University are Engineering, Medical, Laws, Fashion and Designing ",
         "title": "Programmes",
-        "order": 3
+        "order": 2
       },
       "components": [
         {
@@ -1538,7 +1538,7 @@
         }
       ]
     },
-    "page4.html": {
+    "Home.html": {
       "settings": {
         "title": "Home",
         "meta_descr": "College Management System manages, plans, organise the online classroom for students and professor connectivity. It has library in which all the e-books and materials are provided.",
